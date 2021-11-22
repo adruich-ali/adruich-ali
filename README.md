@@ -7,8 +7,8 @@
 - 🔭 Now I'm a Front-End Developer !
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2021 Goals: To Be a Full Stack Developer.
-- ⚡ Fun fact: I love Gym, and Music
+- 🥅 2022 Goals: To Be a Full Stack Developer.
+- ⚡ fact: I love Gym, and Music
 
 ### Connect with me:
 
