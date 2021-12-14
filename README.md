@@ -5,10 +5,10 @@
 ## I'm a Web Developer, !!
 
 - 🔭 Now I'm a Front-End Developer !
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning Web 3.0 .
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2022 Goals: To Be a Full Stack Developer.
-- ⚡ fact: I love Gym, and Music
+- ⚡ fact: I love Gym, and Music and also I'm a Gamer.
 
 ### Connect with me:
 
