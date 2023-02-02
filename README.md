@@ -5,7 +5,7 @@
 ## I'm a Web Developer, !!
 
 - 🔭 Now I'm a SahrePoint & JavaScript Developer !
-- 🌱 I’m currently learning Web 3.0 .
+- 🌱 I’m currently learning Everthing About SharePoint.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2023 Goals: To Be aseasoned SharePoint Developer.
 - ⚡ fact: I love Gym, and Music and also I'm a Gamer.
