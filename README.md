@@ -4,10 +4,10 @@
 
 ## I'm a Web Developer, !!
 
-- 🔭 Now I'm a Front-End Developer !
+- 🔭 Now I'm a SahrePoint & JavaScript Developer !
 - 🌱 I’m currently learning Web 3.0 .
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2022 Goals: To Be a Full Stack Developer.
+- 🥅 2023 Goals: To Be aseasoned SharePoint Developer.
 - ⚡ fact: I love Gym, and Music and also I'm a Gamer.
 
 ### Connect with me:
