@@ -37,13 +37,6 @@
 <br />
 
 ---
-
-### 📊 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
 [website]: https://www.adruich.com
 [twitter]: https://x.com/adruich1
 [instagram]: https://www.instagram.com/adruich
