@@ -5,10 +5,10 @@
 ## I'm a Software & Power Platform Developer @ NTT DATA!!
 
 - 🔭 5+ years building enterprise solutions with modern web technologies and Power Platform
-- 🌱 I'm currently mastering Next.js, .NET, and advanced Power Platform architecture
-- 👯 I'm looking to collaborate with innovative developers and contribute to open source
-- 🥅 2025 Goals: Build scalable enterprise applications and share knowledge with the community
-- ⚡ Fun fact: I love the gym, music, and gaming when I'm not coding!
+- 🌱 I'm currently diving deep into AI, Data Science, and pushing the boundaries of what's possible with automation
+- 👯 I'm looking to collaborate on creative Power Platform solutions and innovative open-source projects
+- 🥅 2025 Goals: Build scalable projects that make a real impact and craft game-changing Power Platform solutions
+- ⚡ Fun fact: I turn coffee into code, dumbbells into discipline, and bugs into features (sometimes by accident) 😄
 
 ### Connect with me:
 
